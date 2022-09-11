@@ -10,7 +10,7 @@
 
 ## **Live Demo**  💻 
 
->### _[**Live Link**](https://profound-babka-7d48d2.netlify.app/)_
+>### _[**Live Link**](https://mellow-arithmetic-217ea5.netlify.app/)_
 <br>
 
 ## **Preview**🔎
