@@ -5,7 +5,7 @@
 
 ## **Time taken :** ✍🏼
 
->### It took me about 1.5 hours to complete this project.
+>### It took me about 2.5 hours to complete this project.
 <br>
 
 ## **Live Demo**  💻 
@@ -21,17 +21,23 @@
 
 <br>
 
+>## Tab view:
+<br>
+
+![Tab](./ss/tab.jpg)
+
+<br>
 
 >## Mobile view:
 <br>
 
-![mobile](./ss/mobile.png)
+![mobile](./ss/mob.jpg)
 
 <br>
 
 
 ## **Tools** 🪛
->Vscode , HTML , CSS`
+>Vscode , HTML , CSS
 <br>
 
 ## **FeedBack**🥷🏼
